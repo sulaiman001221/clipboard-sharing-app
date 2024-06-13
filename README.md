@@ -26,7 +26,3 @@ This project allows users to copy text on their phone and send it to their PC cl
 - **Frontend**: Deploy the React application to Netlify or GitHub Pages.
 - **Backend**: Deploy the Node.js server to Heroku.
   - Ensure environment variables for MongoDB connection are set in Heroku.
-
-### Notes
-- Utilize free tiers of services to avoid costs.
-- Ensure secure handling of clipboard data and user authentication if needed.
